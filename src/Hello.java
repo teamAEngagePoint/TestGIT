@@ -7,4 +7,5 @@
  */
 public class Hello {
     private String text = "Hello";
+    int a = 1;
 }
