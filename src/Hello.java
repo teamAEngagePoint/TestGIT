@@ -8,4 +8,5 @@
 public class Hello {
     private String text = "Hello";
     int a = 1;
+    int b=0;
 }
