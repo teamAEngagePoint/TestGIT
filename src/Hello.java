@@ -10,4 +10,8 @@ public class Hello {
     int a = 1;
     String name = "Vlad";
     String name2 = "Vlad2";
+    int b=0;
+    void add(){
+        a++;
+    }
 }
