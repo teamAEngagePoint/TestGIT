@@ -9,4 +9,5 @@ public class Hello {
     private String text = "Hello";
     int a = 1;
     String name = "Vlad";
+    String name2 = "Vlad2";
 }
